@@ -1,0 +1,8 @@
+c:\users\vpimenta\documents\visual studio 2015\Projects\SeleniumChrome\SeleniumChrome\bin\Debug\SeleniumChrome.exe.config
+c:\users\vpimenta\documents\visual studio 2015\Projects\SeleniumChrome\SeleniumChrome\bin\Debug\SeleniumChrome.exe
+c:\users\vpimenta\documents\visual studio 2015\Projects\SeleniumChrome\SeleniumChrome\bin\Debug\SeleniumChrome.pdb
+c:\users\vpimenta\documents\visual studio 2015\Projects\SeleniumChrome\SeleniumChrome\bin\Debug\WebDriver.dll
+c:\users\vpimenta\documents\visual studio 2015\Projects\SeleniumChrome\SeleniumChrome\bin\Debug\WebDriver.xml
+c:\users\vpimenta\documents\visual studio 2015\Projects\SeleniumChrome\SeleniumChrome\obj\Debug\SeleniumChrome.csprojResolveAssemblyReference.cache
+c:\users\vpimenta\documents\visual studio 2015\Projects\SeleniumChrome\SeleniumChrome\obj\Debug\SeleniumChrome.exe
+c:\users\vpimenta\documents\visual studio 2015\Projects\SeleniumChrome\SeleniumChrome\obj\Debug\SeleniumChrome.pdb
